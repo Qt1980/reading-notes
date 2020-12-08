@@ -16,5 +16,3 @@ As I like to say:
 
 
 [My website](https://qt1980.github.io/reading-notes/)
-
-http://google.com/
