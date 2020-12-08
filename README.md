@@ -17,4 +17,3 @@ As I like to say:
 For more information on Growth Mindsets click here - [Youtube.com](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
 
 
-https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
