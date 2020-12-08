@@ -15,6 +15,6 @@ As I like to say:
 > The knowledge of *who* you are is the most powerful knowledge *anyone* can attain and the power *in* who you are is absolute.
 
 
-https://qt1980.github.io/reading-notes/
+[My website](https://qt1980.github.io/reading-notes/)
 
 http://google.com/
