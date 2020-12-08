@@ -14,5 +14,6 @@ As I like to say:
 > Knowledge is indeed power. 
 > The knowledge of **_who_** you are is the most powerful knowledge anyone can attain and the power **_in_** who you are is absolute.
 
-
 For more information on Growth Mindsets click here - [Youtube.com](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+
+
