@@ -14,6 +14,6 @@ As I like to say:
 > Knowledge is indeed power. 
 > The knowledge of _*who*_ you are is the most powerful knowledge _*anyone*_ can attain and the power _*in*_ who you are is absolute.
 
+https://qt1980.github.io/reading-notes/
 
-https://github.com/Qt1980/reading-notes.git
 [Google.com](http://google.com)
