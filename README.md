@@ -6,3 +6,5 @@ Ways You Can Stay in a Growth Mindset
 *  Allow self discovery
 *  Understand that failure is a learning tool
 *  Appreciate your abiltiy to learn from your mistakes
+
+[Github] (https://qt1980.github.io/reading-notes/)
