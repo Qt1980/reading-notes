@@ -17,3 +17,4 @@ As I like to say:
 For more information on Growth Mindsets click here - [Youtube.com](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
 
 
+[Resources](resources/contributing.md)
