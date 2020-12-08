@@ -3,7 +3,7 @@
 
 ## Growth Mindset, What is it? 
 
-A mindset of growth is simply a mindset that give you the ability to keep learning, keep going to keep pushing past what you thought you cold do.
+A mindset of growth is simply a mindset that is inspired to keep you learning and moves forward to push past what you thought you could do.
 
 ### **Ways You Can Stay in a Growth Mindset**
 *  Allow self discovery
