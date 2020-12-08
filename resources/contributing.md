@@ -1,5 +1,3 @@
-[contribution guidelines for this project](resources/contributing.md)
-
 # Using Markdown on GitHub
 
 Markdown is a syntax tool used to format or style any form of writing on GitHub. Let's start with syntax. What is a "syntax"? Syntax is defined as
