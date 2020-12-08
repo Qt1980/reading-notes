@@ -8,7 +8,7 @@ So essentially, sentences and paragraphs, things we use everyday.
 Markdown as mentioned above is an editing tool used to style the words, sentences and paragraphs on a webpage on the GitHub Pages platform.
 
 Example: Using Markdown can make a word bold or italic.
-Let's use the word "clown". If we want it to be bold we would type clown with a double asterix before and after the word ** ____**. 
+Let's use the word "clown". If we want it to be bold we would type clown with a double asterix before and after the word ** ____** = **clown**. 
 
 Typing clown without the double asterix before and after the word will leave the word in its regular form. When the entry is commits then it will appear bold on your webpage.
 
