@@ -11,8 +11,8 @@ A mindset of growth is simply a mindset that give you the ability to keep learni
 *  Appreciate your abiltiy to learn from your mistakes
 
 As I like to say:
-
-Knowledge is indeed power. The knowledge of *who* you are is the most powerful knowledge *anyone* can attain and the power *in* who you are is absolute.
+> Knowledge is indeed power. 
+> The knowledge of *who* you are is the most powerful knowledge *anyone* can attain and the power *in* who you are is absolute.
 
 
 [Github] (https://qt1980.github.io/reading-notes/)
