@@ -8,4 +8,5 @@ Ways You Can Stay in a Growth Mindset
 *  Appreciate your abiltiy to learn from your mistakes
 
 [Github] (https://qt1980.github.io/reading-notes/)
+
 http://google.com/
