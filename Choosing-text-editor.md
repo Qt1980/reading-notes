@@ -5,6 +5,7 @@ There are many text editors out in the world today and many people who swear by 
 ## Types of Text Editors
 These are different types of editors and their features
 
+
 Text Editors | Features
 ------------ | -----------
 Notepad ++   | Windows Only:Code completion, Syntax Highlights, Themes, Ext
@@ -13,6 +14,8 @@ VS Code      | Windows, Linux & Mac: Code completion, Syntax Highlights, Themes,
 Atom         | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes, Ext
 Brackets     | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes, Ext
 Sublime Text | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes, Ext
+
+
 
 **For Your Consideration:** It is necessary to consider using a text editor that will get the job done. When choosing think about the task to be completed and the tools needed to do the job. 
 
