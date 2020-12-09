@@ -24,7 +24,7 @@ Sublime Text | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes,
    - Terminal
    - Abstraction
    
-Click the links below for more information on Command Line, Files and Navigating in a terminal window.
+Click the resource links below for more information on Command Line, Files and Navigating in a terminal window.
    
 [Ryans Tutorials on NAVI](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
