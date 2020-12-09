@@ -13,5 +13,8 @@ Atom         | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes,
 Brackets     | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes, Ext
 Sublime Text | Windows, Linux & Mac: Code Completion, Syntax Highlights, Themes, Ext
 
-For your consideration: It is necessary to consider using a text editor that will get the job done. When choosing think about the task to be completed and the tools needed to do the job
+**For Your Consideration:** It is necessary to consider using a text editor that will get the job done. When choosing think about the task to be completed and the tools needed to do the job
      
+## Command Line Interface (cli)
+
+The command line interface is the terminal window. The black window you've seen hackers using in movies is the terminal window. This same window is where you'll get comfortable writing code, and issuing commands to you computer. You can access practically anything on your computer using the command line interface. 
