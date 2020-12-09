@@ -18,3 +18,5 @@ For more information on Growth Mindsets click here - [Youtube.com](https://www.y
 
 
 [Resources](/resources/contributing.md)
+
+[Text Editors Guide to Geekhood](/choosing-text-editor.md)
