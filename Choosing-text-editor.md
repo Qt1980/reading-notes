@@ -4,6 +4,7 @@ There are many text editors out in the world today and many people who swear by 
 
 ## Types of Text Editors
 These are different types of editors and their features
+
 Text Editors | Features
 ------------ | -----------
 Notepad ++   | Windows Only:Code completion, Syntax Highlights, Themes, Ext
