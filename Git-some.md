@@ -5,6 +5,7 @@
 A VCS is a system that allows you to revisit changes to files or sets of files. This is important because it prevents the loss of data while tracking updates or changes to a file or files. 
 
 There are various types of VCS:
+
     - Local Version Control System (LVCS)
     - Central Version Control System (CVCS)
     - Distributed Version Control System (DVCS)
