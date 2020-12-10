@@ -30,4 +30,9 @@ This will tell GIT to add the changes you've made and place the file in a modifi
 You're now ready to commit the changes to be stored in the staging area of our workflow chart. Go back to the command prompt and type:
 ``` git commit -m "Leave a message that explains why you made changes"```
 
-This is commit the changes and alert anyone else who might be working on the file what you did and why.
+This will commit the changes and alert anyone else who might be working on the file what you did and why.
+
+Next it's time to finally push the changed file back to the online repository. Go to the command prompt and type:
+```git push origin main```
+
+You will be prompted for your GitHub username and password. Once entered, the changes will then be updated at the online repository. You can verify the changes by checking the website!
