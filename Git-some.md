@@ -36,3 +36,8 @@ Next it's time to finally push the changed file back to the online repository. G
 ```git push origin main```
 
 You will be prompted for your GitHub username and password. Once entered, the changes will then be updated at the online repository. You can verify the changes by checking the website!
+
+GIT is a great tool to use and is also widely used by most coders in the open source community. 
+
+[Previous Page](/Choosing-text-editor.md)
+[Back To Table of Contents](/README.md)
