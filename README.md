@@ -8,3 +8,4 @@ TABLE OF CONTENTS
    1. [Markdown](/markdown.md)
    1. [Choosing A Text Editor](/Choosing-text-editor.md)
    1. [Git-some](/Git-some.md)
+   1. [Reading Resources](/Resources.md)
