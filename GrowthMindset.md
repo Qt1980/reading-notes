@@ -3,9 +3,9 @@
 A mindset of growth is simply a mindset that is inspired to keep you learning and moves you forward to push past what you thought you could do.
 
 ## **Ways You Can Stay in a Growth Mindset**
-       * Allow for self discovery
-       * Understand that failure is a learning tool
-       * Appreciate your abiltiy to learn from your mistakes
+       - Allow for self discovery
+       - Understand that failure is a learning tool
+       - Appreciate your abiltiy to learn from your mistakes
 
 As I like to say:
 > Knowledge is indeed power.
@@ -13,3 +13,7 @@ As I like to say:
 
 For more information on Growth Mindsets click here -
  [Youtube.com](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+
+[Go to Markdown](/markdown.md)
+
+[Back to Table of Contents](/README.md)
