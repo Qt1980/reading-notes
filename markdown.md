@@ -29,5 +29,6 @@ Learning the tech lingo is highly recomended. Let's look at a few words you may 
 2. @Mentions: This a tool used on Github and Canvas to speak to a person, team or company in a chat or to create link to connect with that person directly.
 3. SHA-1 Secure Hash Algorithm -1: This is a way to secure or encrypt information. It is now obsolete but due to its potency in it's intial discovery encryption expanded and has become more complex. SHA-2 or SHA-3 is now widely used to encrypt sensitive information.
 
+[Go to Choosing A Text Editor](/choosing-text-editor.md)
 
- 
+[Back to Table of Contents](/README.md)
