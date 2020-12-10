@@ -40,4 +40,5 @@ You will be prompted for your GitHub username and password. Once entered, the ch
 GIT is a great tool to use and is also widely used by most coders in the open source community. 
 
 [Previous Page](/Choosing-text-editor.md)
+
 [Back To Table of Contents](/README.md)
