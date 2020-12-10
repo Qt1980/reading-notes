@@ -10,3 +10,5 @@ Here is a list of great resources to read in order to get a better understanding
 [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 [Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Co)
+
+[Back to Table of Contents](/README.md)
