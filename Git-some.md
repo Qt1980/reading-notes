@@ -24,3 +24,10 @@ Now we can begin to make changes to files found in the repository stored on our 
 
 See [Choosing A Text Editor](/Choosing-text-editor.md)
 
+At the command window prompt type ```git add nameoffile.md```  
+This will tell GIT to add the changes you've made and place the file in a modified catergory. Using ```git status``` will show the file that has been modified as red. 
+
+You're now ready to commit the changes to be stored in the staging area of our workflow chart. Go back to the command prompt and type:
+``` git commit -m "Leave a message that explains why you made changes"```
+
+This is commit the changes and alert anyone else who might be working on the file what you did and why.
