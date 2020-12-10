@@ -16,7 +16,10 @@ Here's a chart of the workflow GIT uses.
 
 ![GIT Workflow](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
-Using GIT we can make changes to files by cloning our files stored on the repository located on GitHub using the ```git clone (website address)``` command. The address to each repository is unique. This is the checkout process that clones from the Repository to our local hard disk by using the ```git clone Https:...``` at the command terminal prompt.  
+Using GIT we can make changes to files by cloning our files stored on the repository located on GitHub using the ```git clone (website address)``` command. 
+
+The address to each repository is unique. This is the checkout process that clones from the Repository to our local hard disk by using the ```git clone Https:...``` at the command terminal prompt.  
+
 Now we can begin to make changes to files found in the repository stored on our local machine through a text editor. I'm using Microsoft's VS Code editor on my machine but you use whatever you feel comfortable with. 
 
 See [Choosing A Text Editor](/Choosing-text-editor.md)
