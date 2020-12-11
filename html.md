@@ -15,7 +15,15 @@ First let's look at the how HTML structure a webpage.
 
 ![HTML Structure Example](https://3.bp.blogspot.com/-sgm6BBz6KbM/VuarmPKRJ1I/AAAAAAAAG4Q/5GDCRhO09IgiCE2DQXhA0OVaxlylGWvvw/s400/html-structure.png)
 
-Above is a very basic example of what HTML structure would look like as code. You can find many examples by googling "html structure images" Within the body:
+Above is a very basic example of what HTML structure would look like as code. You can find many examples by googling "html structure images". 
+For example within the body of an html:
 
-```<body> Will be text that might explain what the body of the message on the page is about.</body>```. 
+```<body> Will be text that might explain what the body of the message on the page is about.</body>```. Looking at the image above you can see each element type as:
+
+    ```<html>(Opening Tag) and </html>(Closing Tag)
+       <head>(Opening Tag) and </head>(closing Tag)
+       <body>(Opening Tag) and </body>(Closing Tag)```
+
+
+
 
