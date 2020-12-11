@@ -20,9 +20,9 @@ For example within the body of an html:
 
 ```<body> Will be text that might explain what the body of the message on the page is about.</body>```. Looking at the image above you can see each element type as:
 
-    ```<html>(Opening Tag) and </html>(Closing Tag)
-       <head>(Opening Tag) and </head>(closing Tag)
-       <body>(Opening Tag) and </body>(Closing Tag)```
+    <html>(Opening Tag) and </html>(Closing Tag)
+    <head>(Opening Tag) and </head>(closing Tag)
+    <body>(Opening Tag) and </body>(Closing Tag)
 
 
 
