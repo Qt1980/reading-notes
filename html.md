@@ -26,4 +26,7 @@ For example within the body of an html element:
 
 The ```<!DOCTYPE>``` explains what version of HTML is being used. Older versions of HTML might not have the ability to read newer versions of HTML like HTML5. The solution for this is to include a Javascript link currenty hosted by Google in the "Doctype" element. When an older browser is used to read the newer version it will read the link as an executable in order to render the page. Some of the newest elements may still not be visible to the user. 
 
-HTML uses these elements to structure the webpage. It can be very basic as HTML is a text document. 
+HTML uses these elements to structure the webpage. 
+Within the elements are "Attributes and Values". There are specific reasons and moments to use Attributes. Attributes have a name, and value. For example:
+
+```<p lang = "en-us">``` is an opening Tag.
