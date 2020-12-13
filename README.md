@@ -10,3 +10,4 @@ TABLE OF CONTENTS
    1. [Git-some](/Git-some.md)
    1. [Reading Resources](/Resources.md)
    1. [Intro to HTML](/html.md)
+   1. [Intro to CSS](/css.md)
