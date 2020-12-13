@@ -8,7 +8,7 @@ CSS allows the developer to create rules that are used with HTML elements the ru
     - Selection: tells us which element the rule applies to.
     - Declarations: Tells us how the element will show upon the webpage. Declarations have two parts, property and value and are separation by a colon.
 
-CSS declarations are inside curly brackets ```{}``` and can have multiple properties and value and each are separate by semi-coclon.
+CSS declarations are inside curly brackets ```{}``` and can have multiple properties and values and each are separate by semi-coclon.
 There are many selectors that CSS uses. See pg 238 of the Jon Duckett HTML & CSS book.
 
 CSS can either be implement on the page or included with the HTML code or in an external casscading style sheet.css. It is common practice to always use an external stylesheet. This keeps the HTML code clean and easy to edit. 
