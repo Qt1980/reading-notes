@@ -12,3 +12,7 @@ CSS declarations are inside curly brackets ```{}``` and can have multiple proper
 There are many selectors that CSS uses. See pg 238 of the Jon Duckett HTML & CSS book.
 
 CSS can either be implement on the page or included with the HTML code or in an external casscading style sheet.css. It is common practice to always use an external stylesheet. This keeps the HTML code clean and easy to edit. 
+
+It also allows updating css on the webpage to be a bit easier. Updating the page using an external style sheet will update all the pages of the site or all the elements on the page instead of having to update every single element individually. 
+
+CSS applies in a top down approach and from left to right. 
