@@ -7,7 +7,7 @@ A computer is a tool used to help process information by taking;
 - Storing input
 - Processing
 - Output
-Every computer at it's core does these four things. Computer started out as massive machines that would take up an entire room and at first they were extremely slow.
+Every computer at its core does these four things. Computer started out as massive machines that would take up an entire room and at first they were extremely slow.
 
 **INPUT**
 
@@ -31,3 +31,6 @@ These functions are all interpreted by the cpu in the form of ones (1) and zeros
 
 The cpu is made up of many smaller parts that have multiple circuits that are designed to do different things based on the task it is being asked to do. For instance your cpu has a component within it that is desinged to do math while another might be designed to do read a thermometer within the system to control heat. 
 
+Computers are made up of fans, circuits, wires, plugs, chips and many other things. All of these components are what is known as hardware. In order for a computer to operate it needs an Operating System. You might be familiar with Microsofts Windows 10 or perhaps Windows XP or maybe you use apple products and are familiar with Sierra one of the older operating systems for MAC computers. Operating systems are a compilation os software used to control what the hardware does. It is also an interface for the user to interact with the hardware and software on the computer. 
+
+ Todays computers are small, some even microscopic,extremely fast, efficient, able to handle multiple commands at once and compute complex algorithms simultaneously in the blink of an eye.
