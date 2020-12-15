@@ -55,4 +55,25 @@ Next it will need a statement:
 
 ```function sayHello() {```
  ```document.write('Hello!');```
+}```
+
+Parameter: Information given to the function so that it can complete a task. 
+Return Value: The answer a function gives.
+
+Functions have to be declared like variables in order for it to be recognized in a script. Writing the word "function" is how it's done. The statement is next: "sayHello()". The full example is below:
+
+```function sayHello(){```
+```document.write('Hello!');```
 ```}```
+
+This tells the script to look for the function and then write Hello! on the webpage. 
+The function will not work unless it is activated. The activation process or code is called "Calling the function".
+Example:
+
+```function sayMessage("msg"){```
+```alert(msg);```
+```}```
+
+Calling the function: ```sayMessage("Hello from me")```
+
+Refactoring: Changing existing code but having the end results are the same.
