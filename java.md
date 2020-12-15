@@ -9,10 +9,13 @@ JavaScript (JS) is a text based language like HTML or CSS. Unlike HTML and CSS, 
 A script is a set of instructions given to the computer to follow in order to achieve a specific goal on the webpage. As a Chef learning to use code, a script would be the equivalent to a recipe.
 
 In order to write a script you need to:
-    1. Figure out what your goal is.
-    1. Start with the big picture of that goal.
-    1. Break it down into smaller steps.
+
+1. Figure out what your goal is.
+1. Start with the big picture of that goal.
+1. Break it down into smaller steps.
+
 Doing this will allow you to:
+
     -  Define the goal
     -  Design the script
     -  Write the code for the small steps
