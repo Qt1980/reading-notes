@@ -25,3 +25,11 @@ For your consideration: Take your time learning these languages. Ask questions i
 1. *Debugging*: The process of detecting and removing of existing and potential errors in software code.
 1. *Flowchart*: A graphical representation of an algorithm.
 
+__Expressions__
+
+An expression evaluates into a single value. There are two types of expressions. The first is on that only assigns values to a varaible.
+Example: ```var color ='black'```. This expression shows that only the color black as been assigned to the variable. If no color is assigned then the computer will read the variable as 'Undefined'.
+
+The second type of expression os one that uses two or more values that result ina single value.
+Example: ```var area = 3 * 2;```. The browser will read this as a return value of 6.
+
