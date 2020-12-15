@@ -36,3 +36,22 @@ Example: ```var color ='black'```. This expression shows that only the color bla
 The second type of expression os one that uses two or more values that result ina single value.
 Example: ```var area = 3 * 2;```. The browser will read this as a return value of 6.
 
+__Operators__
+
+These allow programmeres to create a single value from one or more values. Operators use values such as (+, =, <,>, *) etc.
+Operators are broken down into different types:
+
+*Assignment*
+*Arithmetic*
+*String* 
+*Comparison*
+*Logical*
+
+Functions: Is a group of statements put together to perform a specific task.
+
+A function has to be declared just like variables. Declaring a function is easy. Simply write:
+```function``` on the line in the appropriate place.
+Next it will need a statement:
+```function sayHello() {```
+ ```document.write('Hello!');```
+```}```
