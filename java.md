@@ -52,6 +52,7 @@ Functions: Is a group of statements put together to perform a specific task.
 A function has to be declared just like variables. Declaring a function is easy. Simply write:
 ```function``` on the line in the appropriate place.
 Next it will need a statement:
+
 ```function sayHello() {```
  ```document.write('Hello!');```
 ```}```
