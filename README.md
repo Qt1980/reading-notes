@@ -13,5 +13,3 @@ TABLE OF CONTENTS
    1. [Intro to CSS](/css.md)
    1. [Intro to the Computer](/cpu.md)
    1. [Intro to JavaScript](/java.md)
-   
-   &dragonfly
