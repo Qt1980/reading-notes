@@ -13,6 +13,7 @@ Example:
     > Therefore the answer must be 7 which is true.
     > If (a + b) does not equal 7 then the answer would be false. 
 
-1. '==' - This copmarison operator means that the values are "equal to" and checks to see if the values are the same.
-2. '!= - This comparison operator means that the values are "not equal" to each other.
-
+1. '==' : This copmarison operator means that the values are "equal to" and checks to see if the values are the same.
+2. '!= : This comparison operator means that the values are "not equal" to each other.
+3. '===' : This comparison operator means the values are "stricly equal" to each other.
+4. '!== : This comparison operator means tht values "do not" have the same data type and value.
