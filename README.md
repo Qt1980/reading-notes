@@ -14,4 +14,12 @@ TABLE OF CONTENTS
    1. [Intro to the Computer](/cpu.md)
    1. [Intro to JavaScript](/java.md)
    1. [Comparisons and Loops](/loop.md)
-   1. [HTML and JAVASCRIPT](/class-01.md)
+   
+
+# Qadree's Reading Notes for Code 201
+
+Wecome to the reading notes of Code 201. Here we will build on the foundation of Code 102 and take a more in depth look at programming languages. The content of this section will also act as a visual representation of my personal journey into coding. Please enjoy this journey with me.
+
+Table of Contents
+
+1. [HTML and JAVASCRIPT](/class-01.md)
