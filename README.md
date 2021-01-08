@@ -14,3 +14,4 @@ TABLE OF CONTENTS
    1. [Intro to the Computer](/cpu.md)
    1. [Intro to JavaScript](/java.md)
    1. [Comparisons and Loops](/loop.md)
+   1. [HTML and JAVASCRIPT](/class-01.md)
