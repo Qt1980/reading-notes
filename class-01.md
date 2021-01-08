@@ -11,4 +11,5 @@ HTML as stated in the paragraph above is a markup langauage. HTML specifcally is
      - ```<p></p>```
 
 There are many other elements used in HTML. Let's take a closer look at the examples above. 
-     1. The html element has an opening and closing tag. the opening tag looks like this:  ```<html>``` whereas the closing tag looks like this ```</html>```. Notice that the closing tag has a forward slash in it ```/```. All closing tags are completed the same way. 
+     1. The html element has an opening and closing tag. the opening tag looks like this:  ```<html>``` whereas the closing tag looks like this ```</html>```. Notice that the closing tag has a forward slash in it ```/```. All closing tags are completed the same way. This element tells the browser that everything within the opening and closing tag is html code. Since the computer understands the HTML language it know how to display the code found in the opening and closing html tag in your browser window. 
+     1. 
