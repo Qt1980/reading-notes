@@ -49,9 +49,10 @@ HTML 5 is the latest version of HTML being used by developers. Structure is stil
     1. <header> - appears at the top of the page of every site.
     1. <footer> - appears at the bottom of the page of every site.
     1. <nav>    - used to move around the page or to other pages of the same site. 
-
+    
 These are just a few of the new elements. There are many others.
 Unfortunately some users have not updated their web browsers and so those browsers may not be able to read HTML 5. If this is the case JavaScript is used to help with this.  
+
 
 **Next up JavaScript**
 
