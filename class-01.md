@@ -43,6 +43,7 @@ Within the elements are "Attributes and Values". There are specific reasons and 
 ```<p lang = "en-us">``` is an opening Tag. To close this simply type ```</p>```.
 
 
+
 # JavaScript: A Peek Into A Logical Language
 
 JavaScript (JS) is a text based language like HTML or CSS. Unlike HTML and CSS, JavaScript intrduces logic in the language.
@@ -68,6 +69,7 @@ Doing this will allow you to:
 For your consideration: Take your time learning these languages. Ask questions if you are in a classroom setting. Use google to try to find answers to things you don't understand. Be patient and give yourself grace. You may not grasp everything all at once. It is ok to learn in small chunks.
 
 **Vocabulary:**
+
 1. *Programmatic*: The systemic step by step way in which a computer follows instructions.
 1. *Syntax*: The rules that define the structure of a programming language.
 1. *Debugging*: The process of detecting and removing of existing and potential errors in software code.
