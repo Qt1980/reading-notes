@@ -62,7 +62,9 @@ Remember those questions from earlier?
 
 These questions are a part of the process and design aspect of building your website. Knowing the answer to these question will help you in buiding the right structure for your specific site. 
 
-After these have been answered the next step is creating a site map to plan out the structure and a wireframe. A wireframe is a drawing of what you'd like your webpage to look like, think layout or organizing the information that will be on the page. 
+After these have been answered the next step is creating a **site map** to plan out the structure and a **wireframe**. A wireframe is a drawing of what you'd like your webpage to look like, think layout or organizing the information that will be on the page. 
+
+**Design** is then implemented in order to communicate to your site visitors what you want them to know or what you are offering. Grouping things by color or boxes are a great way to help simplify the content so that the user know which content is similar and which is different. 
 
 
 
