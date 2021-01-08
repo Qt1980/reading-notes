@@ -42,6 +42,18 @@ Within the elements are "Attributes and Values". There are specific reasons and 
 
 ```<p lang = "en-us">``` is an opening Tag. To close this simply type ```</p>```.
 
+## HTML 5 Layout
+
+HTML 5 is the latest version of HTML being used by developers. Structure is still its main purpose and function but with new elements that seek to simplify the code which is designed to make the code easier to understand. This is done by removing the many div elements that older versions used and replacing them with new elements that describe their function like:
+
+    1. <header> - appears at the top of the page of every site.
+    1. <footer> - appears at the bottom of the page of every site.
+    1. <nav>    - used to move around the page or to other pages of the same site. 
+
+These are just a few of the new elements. There are many others.
+Unfortunately some users have not updated their web browsers and so those browsers may not be able to read HTML 5. If this is the case JavaScript is used to help with this.  
+
+**Next up JavaScript**
 
 
 # JavaScript: A Peek Into A Logical Language
