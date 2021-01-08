@@ -22,6 +22,18 @@ Wecome to the reading notes of Code 201. Here we will build on the foundation of
 
 Table of Contents
 
-1. [Daily reaading 1: HTML and JAVASCRIPT](/class-01.md)
+1. [Daily reading 1: HTML and JAVASCRIPT](/class-01.md)
 1. [Daily reading 2:]
 1. [Daily reading 3:]
+1. [Daily reading 4:]
+1. [Daily reading 5:]
+1. [Daily reading 6:]
+1. [Daily reading 7:]
+1. [Daily reading 8:]
+1. [Daily reading 9:]
+1. [Daily reading 10:]
+1. [Daily reading 11:]
+1. [Daily reading 12:]
+1. [Daily reading 13:]
+1. [Daily reading 14:]
+1. [Daily reading 15:]
