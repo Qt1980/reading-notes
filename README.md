@@ -26,9 +26,9 @@ Wecome to the reading notes of Code 201. Here we will build on the foundation of
       - Class Collaboration
       - Webpage Building
 
-Here's a quote from one of Tech Leaders I look at to find motivation and inspiration 
+Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and inspiration 
 
-      - "It's fine to celebrate success but it is more important to heed the lessons of failure." Bill Gates, Co-founder of Microsoft
+      >It's fine to celebrate success but it is more important >to heed the lessons of failure." Bill Gates, Co-founder >of Microsoft
 
 *201* TABLE OF CONTENTS
 
