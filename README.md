@@ -19,7 +19,12 @@ Welcome to Qadree's Reading Notes for Coding 102 at Code Fellows. Below is work 
 
 # Qadree's Reading Notes for Code 201
 
-Wecome to the reading notes of Code 201. Here we will build on the foundation of Code 102 and take a more in depth look at programming languages. The content of this section will also act as a visual representation of my personal journey into coding. Please enjoy this journey with me.
+Wecome to the reading notes of Code 201. Here we will build on the foundation of Code 102 and take a more in depth look at programming languages. The content of this section will also act as a visual representation of my personal journey into coding. Please enjoy this journey with me. Here are some of the things we will be doing daily:
+
+      - Daily Reading
+      - Labs
+      - Class Collaboration
+      - Webpage Building
 
 *201* TABLE OF CONTENTS
 
