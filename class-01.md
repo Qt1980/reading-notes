@@ -147,3 +147,5 @@ Example:
 Calling the function: ```sayMessage("Hello from me")```
 
 Refactoring: Changing existing code but having the end results are the same.
+
+[Back to Table of Contents](/README.md)
