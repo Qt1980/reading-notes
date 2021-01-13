@@ -7,13 +7,20 @@ Here is an example of script taken from the Duckett JS Book:
 ```var greeting;```
 
 ```if (hourNow > 18) {```
+
    ``` greeting = 'Good evening!';```
+
 ```} else if (hourNow > 12) {```
+
    ``` greeting = 'Good afternoon!';```
+
 ```} else if (hourNow > 0) {```
+
    ``` greeting = 'Good morning!';```
+
 ```} else {```
    ``` greeting = 'Welcome!';```
+   
 ```}```
 
 This script expresses a greeting based on the time of day the user opens the webpage. Javascript can be used in many ways to make the webpage interactive and therefor more robust and enjoyable. 
