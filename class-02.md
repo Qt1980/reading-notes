@@ -20,10 +20,10 @@ Here is an example of script taken from the Duckett JS Book:
 
 ```} else {```
    ``` greeting = 'Welcome!';```
-   
+
 ```}```
 
-This script expresses a greeting based on the time of day the user opens the webpage. Javascript can be used in many ways to make the webpage interactive and therefor more robust and enjoyable. 
+This script expresses a greeting based on the time of day the user opens the webpage. Javascript can be used in many ways to make the webpage interactive and therefore more robust and enjoyable. 
 
 Scripts are built using logic which involves putting together expressions and variables in the proper order. Expressions can be evaulated by assigning operators of which there are 5 types used in JavaScript. 
 
@@ -37,3 +37,4 @@ Scripts are built using logic which involves putting together expressions and va
 
 *Variables* are used to temporarily hold information within scripts and can be assigned various values names. Some naming conventions are reserved within JavaScript and cannot be used. 
 
+[Back to Table of Contents](/README.md)
