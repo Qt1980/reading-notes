@@ -17,3 +17,16 @@ Here is an example of script taken from the Duckett JS Book:
 ```}```
 
 This script expresses a greeting based on the time of day the user opens the webpage. Javascript can be used in many ways to make the webpage interactive and therefor more robust and enjoyable. 
+
+Scripts are built using logic which involves putting together expressions and variables in the proper order. Expressions can be evaulated by assigning operators of which there are 5 types used in JavaScript. 
+
+## Operators
+
+    -Assignment: Assigns values to variable
+    -Arithmetic: Performs basic math
+    -String: Combines strings together using the plus sign (+)
+    -Comparison: Compares two values and evaluates whether it is true or false
+    -Logical: Combines expressions and evaluates whether it is true or false
+
+
+
