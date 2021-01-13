@@ -28,5 +28,5 @@ Scripts are built using logic which involves putting together expressions and va
     -Comparison: Compares two values and evaluates whether it is true or false
     -Logical: Combines expressions and evaluates whether it is true or false
 
-
+*Variables* are used to temporarily hold information within scripts and can be assigned various values names. Some naming conventions are reserved within JavaScript and cannot be used. 
 
