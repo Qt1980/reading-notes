@@ -33,7 +33,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 *201*  TABLE OF CONTENTS
 
 1. [Daily reading 1: HTML and JAVASCRIPT](/class-01.md)
-1. [Daily reading 2:]
+1. [Daily reading 2: HTML and JAVASCRIPT](/class-02.md)
 1. [Daily reading 3:]
 1. [Daily reading 4:]
 1. [Daily reading 5:]
