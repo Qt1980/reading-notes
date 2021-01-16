@@ -19,7 +19,7 @@ Overflow gives the developer the ability to either hide extra content or add a s
 
 **Back to Borders**
 
-*Border*s* separate the edge of one box from that of another.
+*Borders* separate the edge of one box from that of another.
 
 Look at the picture below from tutorialrepublic.com
 ![Types of Borders](https://www.tutorialrepublic.com/lib/images/css-border-style.png)
@@ -30,6 +30,7 @@ They have 4 sides that can be controlled. The order of control is top, right, bo
   ```h1 {```
 
   ```border-width: 2px;```
+
   ```border-top-color: red}```
 
 Along with borders are padding and margins. They can be controlled in the most of same ways as borders.
@@ -50,15 +51,12 @@ There are two ways to create an array.
 Example 1 from JS Duckett Book:
 
 ```var colors;```
-
-   ``` colors = ['white', 'black', 'custom'];```
+      ```     ```
+        ``` colors = ['white', 'black', 'custom'];```
 
 Example 2 from JS Duckett Book:
 
-```var colors = new Array('White,```
-                        ```     ```
-                       ```'Black',```
-                       ```'Custom');```
+```var colors = new Array('White,'Black','Custom');```
 
 The first type is call *Array Literal* and the second type *Array Constructor*.
 The items inside an array are given a number sequence that starts with 0. So in the above example the color white would be assigned 0, black=1 and custom=2. This is called an index.
