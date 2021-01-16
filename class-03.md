@@ -53,3 +53,10 @@ Example 2 from JS Duckett Book:
 ```var colors = new Array('White,```
                        ```'Black',```
                        ```'Custom');```
+
+The first type is call *Array Literal* and the second type *Array Constructor*.
+The items inside an array are given a number sequence that starts with 0. So in the above example the color white would be assigned 0, black=1 and custom=2. This is called an index. 
+
+
+
+[Back to Table of Contents](/README.md)
