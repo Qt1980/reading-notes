@@ -68,24 +68,28 @@ Switch statements start with a variable called a switch value. Ater the value is
 Quiz Break
 
 1. What is Padding?
+
   a. The edges around a box that separates from other boxes.
   b. An expression that is used to determine whether a conditons is true or false.
   c. The space between the border and the content of a box.
   d. A style type that is used to outline boxes in CSS.
 
 2. CSS is used to:
+
   a. Add struture to webpages.
   b. Evaluate expressions with logical operators.
   c. Style text, headers, and format words in a document.
   d. Add style, layout and presentation to webpages.
 
 3. What is an Array?
+
   a. A version control system used to make copies of changes within a repository.
   b. An evaluation that returns a falsy value.
   c. A cascading style sheet.
   d. A type of variable that contains lists of values.
 
 4. How many borders styles can be used in CSS?
+
   a. 5
   b. 8
   c. 12
