@@ -23,4 +23,10 @@ Look at the picture below from tutorialrepublic.com
 
 You can add variety and flair to your content by using differnt border styles.
 Borders separate the edge of one box from that of another.
-They have 4 sides that can be control. The order of control is top, right, bottom, left. Each side can be control individually.
+They have 4 sides that can be control. The order of control is top, right, bottom, left. Each side can be control individually and can be colored, thin, medium and thick width. Example:
+
+```h1 {```
+  ```border-width: 2px```
+  ```border-top-color: red}```
+
+Along with borders are padding and margins. They can be controlled in the same ways
