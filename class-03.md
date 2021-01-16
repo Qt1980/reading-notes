@@ -35,14 +35,14 @@ Along with borders are padding and margins. They can be controlled in the most o
 *Padding* is the space between the border and the content of a box.
 *Margin* is the area outside the edge of a border.
 
-### The MORE 
+### The MORE
 
-As stated previously Javascript is used to create interactive webpages for a more enjoyable user experience. One of the ways this can be done is to use a combination of *variables, expressions, if and switch statements*. 
+As stated previously Javascript is used to create interactive webpages for a more enjoyable user experience. One of the ways this can be done is to use a combination of *variables, expressions, if and switch statements*.
 
 JavaScript can use regular variable using the **var** code. There's another type of variable called an *Array*.
 **Arrays** - are variables that are able to contain lists of values.
 
-There are two ways to create an array. 
+There are two ways to create an array.
 Example 1 from JS Duckett Book:
 
 ```var colors;```
@@ -55,8 +55,9 @@ Example 2 from JS Duckett Book:
                        ```'Custom');```
 
 The first type is call *Array Literal* and the second type *Array Constructor*.
-The items inside an array are given a number sequence that starts with 0. So in the above example the color white would be assigned 0, black=1 and custom=2. This is called an index. 
+The items inside an array are given a number sequence that starts with 0. So in the above example the color white would be assigned 0, black=1 and custom=2. This is called an index.
 
+*If* and *else if* statement check a condition, if the condition evaulates to be true then the first block of code will run. If it evalutes to be false then the second block of code associated with the *else if* statement will run. If statements can be slow so to remedy this **switch statements** can be used.
 
-
+Switch statements start with a variable called a switch value. Ater the value is set then the statement will move to check its cases. Cases are like conditions that are checked. If the case is true then a block of code will run that corresponds to that case. Since switch statements use an array type variable it can contain many cases.
 [Back to Table of Contents](/README.md)
