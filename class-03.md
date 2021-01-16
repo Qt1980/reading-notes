@@ -37,4 +37,19 @@ Along with borders are padding and margins. They can be controlled in the most o
 
 ### The MORE 
 
-As stated previously Javascript is used to create interactive webpages for a more enjoyable user experience. One of the ways this can be done is to use a combination of variables, expressions, if and switch statements. 
+As stated previously Javascript is used to create interactive webpages for a more enjoyable user experience. One of the ways this can be done is to use a combination of *variables, expressions, if and switch statements*. 
+
+JavaScript can use regular variable using the **var** code. There's another type of variable called an *Array*.
+**Arrays** - are variables that are able to contain lists of values.
+
+There are two ways to create an array. 
+Example 1 from JS Duckett Book:
+
+```var colors;```
+   ``` colors = ['white', 'black', 'custom'];```
+
+Example 2 from JS Duckett Book:
+
+```var colors = new Array('White,```
+                       ```'Black',```
+                       ```'Custom');```
