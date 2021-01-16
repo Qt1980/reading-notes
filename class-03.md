@@ -21,4 +21,6 @@ Overflow gives the developer the ability to either hide extra content or add a s
 Look at the picture below from tutorialrepublic.com
 ![Types of Borders](https://www.tutorialrepublic.com/lib/images/css-border-style.png)
 
-You can add style and flair to your content by using differnt border styles. 
+You can add variety and flair to your content by using differnt border styles.
+Borders separate the edge of one box from that of another.
+They have 4 sides that can be control. The order of control is top, right, bottom, left. Each side can be control individually.
