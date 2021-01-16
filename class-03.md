@@ -12,3 +12,13 @@ CSS give developers the ability to change the box size that naturally surrounds 
 
 Height and width of boxes can be changed using pixels (px), percentages or (ems). Limitations can be applied to the width and height of boxes as well. The purpose of limiting dimensions is render the webpage properly depending on screen size, think mobile device like Android or iPhone. 
 
+The limitations are necessary because other html elements have boxes and there is only sp much content that be displayed on a website without it looking messy or overcrowded. If the content size is more than the size of the box there's a way to control this. It is called overflow.
+
+Overflow gives the developer the ability to either hide extra content or add a scroll bar so that users can continue accessing information.
+
+**Back to Borders**
+
+Look at the picture below from tutorialrepublic.com
+![Types of Borders](https://www.tutorialrepublic.com/lib/images/css-border-style.png)
+
+You can add style and flair to your content by using differnt border styles. 
