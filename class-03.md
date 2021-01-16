@@ -63,37 +63,49 @@ The items inside an array are given a number sequence that starts with 0. So in 
 
 *If* and *else if* statement check a condition, if the condition evaulates to be true then the first block of code will run. If it evalutes to be false then the second block of code associated with the *else if* statement will run. If statements can be slow so to remedy this **switch statements** can be used.
 
-Switch statements start with a variable called a switch value. Ater the value is set then the statement will move to check its cases. Cases are like conditions that are checked. If the case is true then a block of code will run that corresponds to that case. Since switch statements use an array type variable it can contain many cases. Switch statements have default option if no case is true. 
+Switch statements start with a variable called a switch value. Ater the value is set then the statement will move to check its cases. Cases are like conditions that are checked. If the case is true then a block of code will run that corresponds to that case. Since switch statements use an array type variable it can contain many cases. Switch statements have default option if no case is true.
 
 Quiz Break
 
 1. What is Padding?
 
-  a. The edges around a box that separates from other boxes.
-  b. An expression that is used to determine whether a conditons is true or false.
-  c. The space between the border and the content of a box.
-  d. A style type that is used to outline boxes in CSS.
+    a. The edges around a box that separates from other boxes.
+
+    b. An expression that is used to determine whether a conditons is true or false.
+
+    c. The space between the border and the content of a box.
+
+    d. A style type that is used to outline boxes in CSS.
 
 2. CSS is used to:
 
-  a. Add struture to webpages.
-  b. Evaluate expressions with logical operators.
-  c. Style text, headers, and format words in a document.
-  d. Add style, layout and presentation to webpages.
+    a. Add struture to webpages.
+
+    b. Evaluate expressions with logical operators.
+
+    c. Style text, headers, and format words in a document.
+
+    d. Add style, layout and presentation to webpages.
 
 3. What is an Array?
 
-  a. A version control system used to make copies of changes within a repository.
-  b. An evaluation that returns a falsy value.
-  c. A cascading style sheet.
-  d. A type of variable that contains lists of values.
+    a. A version control system used to make copies of changes within a repository.
+
+    b. An evaluation that returns a falsy value.
+
+    c. A cascading style sheet.
+
+    d. A type of variable that contains lists of values.
 
 4. How many borders styles can be used in CSS?
 
-  a. 5
-  b. 8
-  c. 12
-  d. 2
+    a. 5
+
+    b. 8
+
+    c. 12
+
+    d. 2
 
 Answer Table
 
