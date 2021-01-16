@@ -18,15 +18,19 @@ Overflow gives the developer the ability to either hide extra content or add a s
 
 **Back to Borders**
 
+*Border*s* separate the edge of one box from that of another.
+
 Look at the picture below from tutorialrepublic.com
 ![Types of Borders](https://www.tutorialrepublic.com/lib/images/css-border-style.png)
 
 You can add variety and flair to your content by using differnt border styles.
-Borders separate the edge of one box from that of another.
-They have 4 sides that can be control. The order of control is top, right, bottom, left. Each side can be control individually and can be colored, thin, medium and thick width. Example:
+They have 4 sides that can be control. The order of control is top, right, bottom, left. Each side can be control individually and can be colored, thin, medium and thick width. Some of the other ways in which borders can be controlled are with images, box shadows, radius and elliptical borders. Here is an Example of what CSS code looks like to control a border:
 
-```h1 {```
-  ```border-width: 2px```
+  ```h1 {```
+  ```border-width: 2px;```
   ```border-top-color: red}```
 
-Along with borders are padding and margins. They can be controlled in the same ways
+Along with borders are padding and margins. They can be controlled in the same ways as borders.
+
+*Padding* is the space between the border and the content of a box.
+*Margin* is the area outside the edge of a border.
