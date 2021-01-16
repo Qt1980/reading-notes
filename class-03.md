@@ -30,7 +30,11 @@ They have 4 sides that can be control. The order of control is top, right, botto
   ```border-width: 2px;```
   ```border-top-color: red}```
 
-Along with borders are padding and margins. They can be controlled in the same ways as borders.
+Along with borders are padding and margins. They can be controlled in the most of same ways as borders.
 
 *Padding* is the space between the border and the content of a box.
 *Margin* is the area outside the edge of a border.
+
+### The MORE 
+
+As stated previously Javascript is used to create interactive webpages for a more enjoyable user experience. One of the ways this can be done is to use a combination of variables, expressions, if and switch statements. 
