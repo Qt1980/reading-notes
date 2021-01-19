@@ -76,4 +76,16 @@ Multiple CSS style sheets can be used on one page.
     1. Objects in JavaScript are 'strings', math, dates and numbers. 
     1. Arrays and objects might be used to create in depth data sets.
 
+Function example below from the JS Duckett Book:
+
+```function sayHello() {```
+ ```document.write('Hello!');```
+```}```
+This function could be set to execute when the user visits the page or maybe when they click on something on the page. This is all determinded by the developer. Looking at the example above the function will never run because it has not been called.
+
+In order to call the function another line of code is needed. See below:
+
+```sayHello();``` - This line of code would call the function and then it would operate.
+
+
 [Back to Table of Contents](/README.md)
