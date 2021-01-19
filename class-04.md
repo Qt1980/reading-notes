@@ -79,7 +79,9 @@ Multiple CSS style sheets can be used on one page.
 Function example below from the JS Duckett Book:
 
 ```function sayHello() {```
+
  ```document.write('Hello!');```
+
 ```}```
 This function could be set to execute when the user visits the page or maybe when they click on something on the page. This is all determinded by the developer. Looking at the example above the function will never run because it has not been called.
 
