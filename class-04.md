@@ -65,4 +65,15 @@ There are other types of layouts like the fixed-width layout or the liquid layou
 
 Multiple CSS style sheets can be used on one page.
 
+#### Functions, Methods and Objects
+
+    1. Functions: Gives the ability to group a set of related statements together that represent a single task. They can evaluate perameters and return a value or output. In order for the function to execute it must be ordered to operate. This is called "Calling the function". 
+
+    1. Objects: a group of variables and functions that represent something from the world around you. Variables are considered to be properties of an object whereas functions are considered to be methods of the object.
+
+    1. Browsers ahve rules that are associated with objects that represent the browser window and the document that is being rendered or displayed in the window.
+
+    1. Objects in JavaScript are 'strings', math, dates and numbers. 
+    1. Arrays and objects might be used to create in depth data sets.
+
 [Back to Table of Contents](/README.md)
