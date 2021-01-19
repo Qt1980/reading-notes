@@ -15,17 +15,33 @@ See the below example created by a student from Code Fellows: This is how links 
 Code Fellows Class 102  TABLE OF CONTENTS
 
    ```1. [GrowthMindset](/GrowthMindset.md)```
+
    ```1. [Markdown](/markdown.md)```
+
    ```1. [Choosing A Text Editor](/Choosing-text-editor.md)```
+
    ```1. [Git-some](/Git-some.md)```
+
    ```1. [Reading Resources](/Resources.md)```
+
    ```1. [Intro to HTML](/html.md)```
+
    ```1. [Intro to CSS](/css.md)```
+
    ```1. [Intro to the Computer](/cpu.md)```
+
    ```1. [Intro to JavaScript](/java.md)```
+
    ```1. [Comparisons and Loops](/loop.md)```
 
 This last link is actually clickable! Try it!
       1. [Comparisons and Loops](/loop.md)
+
+Links can be used to do other things like open email programs like Microsoft Outlook or Gmail as well.
+
+### Layouts with CSS
+
+Using CSS we can control the layout or design process of our webpage. 
+
 
 [Back to Table of Contents](/README.md)
