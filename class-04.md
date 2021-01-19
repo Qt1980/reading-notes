@@ -51,10 +51,18 @@ Examples: ```<img>```, ```<b>```, and ```<i>``` and more.
 
 In order to control the position of elements we use position schemes. There are 5 schemes for positioning.
 
-    1. Normal Flow
-    1. Relative Positioning
-    1. Absolute Positioning
-    1. Fixed Positioning
-    1. Floating Elements
+    1.Normal Flow: Causes every block-level element to appear on a new line.
+
+    1. Relative Positioning: Moves the element from its normal position to top, right, bottom and left. Does not affect position of surrounding elements.
+
+    1. Absolute Positioning:Positions the element based on the element that it is contained in. Moves as users scroll up and down and does not affect surrounding elements
+
+    1. Fixed Positioning: Positions in relation to the browser window. Does not move when the user scrolls up or down and does not affect surrounding elements.
+
+    1. Floating Elements: Positions to the far left or right of a containing box. Other elements flow around it.
+
+There are other types of layouts like the fixed-width layout or the liquid layout.Each does something unique. Pages are usually designed within 960-1000 pixels in width and around 600 in height so that the user can see what the page is about before they scroll down to see the remaining content. 
+
+Multiple CSS style sheets can be used on one page.
 
 [Back to Table of Contents](/README.md)
