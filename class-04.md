@@ -25,3 +25,7 @@ Code Fellows Class 102  TABLE OF CONTENTS
    ```1. [Intro to JavaScript](/java.md)```
    ```1. [Comparisons and Loops](/loop.md)```
 
+This last link is actually clickable! Try it!
+      1. [Comparisons and Loops](/loop.md)
+
+[Back to Table of Contents](/README.md)

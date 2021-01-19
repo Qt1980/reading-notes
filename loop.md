@@ -29,3 +29,7 @@ Some familiar symbols (<,>) are greater and less than signs. They check to see i
 **Logical Not**: Inverts a single value. If the expression returns true this operator will return the answer as false. 
 
 **Loops**: Checks conditions of a code block. If the condition returns true then the loop will execute. The process will repeat until it returns false. 
+
+[Daily reading 4: HTML and JavaScript](/class-04.md) - You tried the link! What do you think? Click the above link to get you back to your last page. Enjoy!
+
+[Back to Table of Contents](/README.md)
