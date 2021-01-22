@@ -36,7 +36,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 1. [Daily reading 2: HTML and JavaScript](/class-02.md)
 1. [Daily reading 3: CSS and JavaScript](/class-03.md)
 1. [Daily reading 4: HTML and JavaScript](/class-04.md)
-1. [Daily reading 5:]
+1. [Daily reading 5: Color, Text & Images](/class-05.md)
 1. [Daily reading 6:]
 1. [Daily reading 7:]
 1. [Daily reading 8:]
