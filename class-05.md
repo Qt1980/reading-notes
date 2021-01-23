@@ -18,4 +18,11 @@ JPEG, GIF and PNG (When to use them)
 
 Editing and saving images can be done with tools like Adobe Photoshop. However photoshop is fairly expensive but there are other options like: Photoshop Elements, Pixelmator, Paint.net, Paintshop Pro and Adobe Fireworks and various online editors (p108 in the Ducketts HTML/CSS book).
 
+When editing images be sure to consider its size, how to set the image (either in landscape or portrait) and how to properly crop it. 
+
+Images can even be animated. I've copied an image from Giphy.com to show an example. This is also another example of an image being in the middle of a paragraph.
+![Anitmated GIF](https://media4.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif). With HTML you can use images and CSS inline instead of created a separate page to style your HTML document. This is somewhat frowned upon as it can make your code appear messy and hard to follow.
+
+
+
 [Back to Table of Contents](/README.md)
