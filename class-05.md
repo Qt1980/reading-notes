@@ -1,16 +1,15 @@
 # Images, Color and Text in HTML
 
-```<img>``` is the element used in HTML to add images to a webpage. Within the element you must select the source of the image. This is done with the src (source) attribute. The element in full would appear as in HTML:
+```<img>``` is the element used in HTML to add images to a webpage. Within the element you must select the source of the image. This is done with the src (source) attribute. The element in full would appear in HTML as:
 
 ```<img src="(https://3.bp.blogspot.com/-sgm6BBz6KbM/VuarmPKRJ1I/AAAAAAAAG4Q/5GDCRhO09IgiCE2DQXhA0OVaxlylGWvvw/s400/html-structure.png)">```
 
-The ```<img>``` element does not need a closing tag and as you can see from the example above the attribute and image address sit inside the img element.
+The ```<img>``` element does not need a closing tag and as you can see from the example above the attribute and image address sit inside the img element. The above image address is the same for the HTML Structure image below!
 
-![HTML Structure Example](https://3.bp.blogspot.com/-sgm6BBz6KbM/VuarmPKRJ1I/AAAAAAAAG4Q/5GDCRhO09IgiCE2DQXhA0OVaxlylGWvvw/s400/html-structure.png) This is an image I got from googling "HTML structure". This is an example of how images can be positions on a webpage. Here the image is inside the start of a paragraph. There are two other ways in which images can be placed. These are:
+![HTML Structure Example](https://3.bp.blogspot.com/-sgm6BBz6KbM/VuarmPKRJ1I/AAAAAAAAG4Q/5GDCRhO09IgiCE2DQXhA0OVaxlylGWvvw/s400/html-structure.png) This is an image I got from googling "HTML structure". This is an example of how images can be positioned on a webpage. Here the image is inside the start of a paragraph. There are two other ways in which images can be placed. These are:
 
     * In the middle of a paragraph
     * Before a paragraph 
-    * Inside the start of a paragraph
 
 Some older code use the align element to align images from the top, middle, bottom or left and right sides of paragraph. Essentially they do the same thing as the above list but with the align element. HTML 5 does not use the align element however so be on the lookout for older code.
 
