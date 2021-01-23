@@ -10,4 +10,12 @@ Some older code use the align element to align images from the top, middle, bott
 
 When using images for your website you want to alwas make sure you are saving the images in the correct format, at the right size and always measure them in pixels.
 
+JPEG, GIF and PNG (When to use them)
+
+1. JPEGs should be used when an image has many colors.
+2. GIFs should be used when there in an abundance of flat colors or very few colors.
+3. PNGs should also be used for images that have few and flat colors.
+
+Editing and saving images can be done with tools like Adobe Photoshop. However photoshop is fairly expensive but there are other options like: Photoshop Elements, Pixelmator, Paint.net, Paintshop Pro and Adobe Fireworks and various online editors (p108 in the Ducketts HTML/CSS book).
+
 [Back to Table of Contents](/README.md)
