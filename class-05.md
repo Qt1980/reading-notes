@@ -34,8 +34,11 @@ Let's look at color next.
 
 Using color you can create a more vibrant and catchy website. Color creates contrast between text and background colors so that your text is easier to read which your user would prefer. Using CSS you can select colors using   Values, Hex codes and color names. Let's define these terms.
 
-**RGB Values**: RGB(Red, Green Blue) Values express colors in terms of how much red, green or blue is in a selected color. In other words these orimary colors are combined to get the color you might want or the colors are lessened for the same effect. Example: *rgb(100,100,90)*. 
+**RGB Values**: RGB(Red, Green Blue) Values express colors in terms of how much red, green or blue is in a selected color. In other words these orimary colors are combined to get the color you might want or the colors are lessened for the same effect These are expressed as numbers. Example: *rgb(100,100,90)*. 
 
-HEX Codes: Six digit cods that represent the amount of red, green and blue in a color. Example: #ee3e80
+**HEX Codes**: Six digit cods that represent the amount of red, green and blue in a color. Example: *#ee3e80*
 
+**Color Names**: 147 predefined colors names that browsers recognize. Example: *red*
+
+*Text*
 [Back to Table of Contents](/README.md)
