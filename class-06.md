@@ -16,6 +16,17 @@ What is an object in JavaSCript?
 
   Within an object, functions are known as "methods". Methods are used to do tasks within the object. For instance, if you wanted to know how many more trees need to be planted in a park to get a total number of trees, you'd look at the total number of trees needed and then subtract the current number of trees planted.
 
+Now that we have a bit of information about objects, let's look at how to create one. There are many ways to do this. Below is just one way to do this.
+
+```var park = {```
+  ```name: 'Pennyhill',```
+  ```trees-needed: 60,```
+  ```trees-planted: 20,```
+
+  ```checkTotalneeded: function() {```
+    ```return this.treesPlanted - this.treesNeeded;```
+  ```}```
+```};```
 
 
 [Back to Table of Contents](/README.md)
