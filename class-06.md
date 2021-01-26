@@ -19,13 +19,19 @@ What is an object in JavaSCript?
 Now that we have a bit of information about objects, let's look at how to create one. There are many ways to do this. Below is just one way to do this.
 
 ```var park = {```
+
   ```name: 'Pennyhill',```
+
   ```trees-needed: 60,```
+
   ```trees-planted: 20,```
 
   ```checkTotalneeded: function() {```
-    ```return this.treesPlanted - this.treesNeeded;```
+
+  ```return this.treesPlanted - this.treesNeeded;```
+
   ```}```
+
 ```};```
 
 
