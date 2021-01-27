@@ -34,5 +34,38 @@ Now that we have a bit of information about objects, let's look at how to create
 
 ```};```
 
+Accessing the object's properties or method is done using what is called "dot notation". This means that the name of the object, followed by a period (. "dot") and then the name of the method or property you are trying to access.
 
+For example:
+
+```var parkName = park.Pennyhill```
+
+```var totalNeeded = park.checkTotalneeded();```
+
+This can also be done using square brackets [].
+
+```var parkName = park['Pennyhill']```
+
+```var totalNeeded = park['checkTotalneeded']();```
+
+Up next...
+
+## Dom, Dom Dommmmmmm
+
+**DOM**: Document Object Model, dictates how the browser  creates a model of an HTML page and how JavaScript accesses and updates the webpage while in the borwser window.
+
+  DOM models are stored in the browsers memory
+
+  DOMs have four different nodes:
+
+    Document Node
+
+    Element Node
+
+    Attribute Node
+
+    Text Node
+
+Each node is an object with properties and methods.
+     
 [Back to Table of Contents](/README.md)
