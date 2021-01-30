@@ -32,12 +32,12 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 
 *201*  TABLE OF CONTENTS
 
-1. [Daily reading 1: HTML and JavaScript](/class-01.md)
-1. [Daily reading 2: HTML and JavaScript](/class-02.md)
-1. [Daily reading 3: CSS and JavaScript](/class-03.md)
-1. [Daily reading 4: HTML and JavaScript](/class-04.md)
-1. [Daily reading 5: Color, Text & Images](/class-05.md)
-1. [Daily reading 6: Objects and the DOM](/class-06.md)
+1. [Daily reading 1: HTML and JavaScript](/Class201Notes/class-01.md)
+1. [Daily reading 2: HTML and JavaScript](/Class201Notes/class-02.md)
+1. [Daily reading 3: CSS and JavaScript](/Class201Notes/class-03.md)
+1. [Daily reading 4: HTML and JavaScript](/Class201Notes/class-04.md)
+1. [Daily reading 5: Color, Text & Images](Class201Notes/class-05.md)
+1. [Daily reading 6: Objects and the DOM](/Class201Notes/class-06.md)
 1. [Daily reading 7:]
 1. [Daily reading 8:]
 1. [Daily reading 9:]
