@@ -14,3 +14,7 @@ Store Location | Hours
 -------------- | ------------
 Seattle        | 10,  20,  30,  40,  50,    60,   70
 Tokyo          | 3,    5,   7,  9,   11,    13,   15
+
+
+[Head here to see more on CSS Layout](/Class201Notes/class-04.md)
+[Back to Table of Contents](/README.md)
