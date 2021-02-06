@@ -10,3 +10,16 @@ Forms are used in various ways such as:
   Submittal Forms - These are buttons used to submit larger chunks of data.
 
 All of the different types listed about are known as form control.
+
+## The structure of Form
+
+In HTML, the form element is used to create a form on the webpage. 
+Within the form element must be an "*action*" attribute and a method. The action attribute will always have a value of the website address (URL) of the server that will handle the inputted data.  
+
+The end of the action value will be a *get* method. If the method is a *post* method then the value of post will be sent via the HTTPS header.
+
+**GET** METHOD: This method is used for search boxes mainly.
+**POST** METHOD: This method is used for usernames, passwords, uploading files and other things. 
+
+
+[Back to Table of Contents](/README.md)
