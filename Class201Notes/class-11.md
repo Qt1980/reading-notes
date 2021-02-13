@@ -6,4 +6,8 @@ CSS also allows background images and rollover effects in addition to sprites. S
 
 ## Practical Information
 
-This section is essentially about knowing certain things about owning a website. Some of the things to know are that if you want to host a website you may need a hosting server like GoDaddy which would give you a domain. 
+This section is essentially about knowing certain things about owning a website. Some of the things to know are that if you want to host a website you may need a hosting server like GoDaddy which would give you a domain.
+
+
+
+[Back to Table of Contents](/README.md)
