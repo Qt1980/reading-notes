@@ -42,7 +42,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 1. [Daily reading 8: More CSS Layout](/Class201Notes/class-08.md)
 1. [Daily reading 9: Forns and JS Events](Class201Notes/class-09.md)
 1. [Daily reading 10:Debug-B-Gone](/Class201Notes/class-10.md)
-1. [Daily reading 11:]
+1. [Daily reading 11: Images, Practical Info]
 1. [Daily reading 12:]
 1. [Daily reading 13:]
 1. [Daily reading 14:]
