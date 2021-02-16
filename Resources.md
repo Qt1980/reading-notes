@@ -12,4 +12,5 @@ Here is a list of great resources to read in order to get a better understanding
 [Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Co)
 
 Salmon Cookies resource code (Kassie Bradshaw)
+Class-12.md Chart Toppin' resourced from (https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 [Back to Table of Contents](/README.md)
