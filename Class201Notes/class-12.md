@@ -6,5 +6,6 @@ A great way to get started with charts is with Chart.js, a JavaScript plugin tha
 
 To see how to use chart.js we’re going to create a set of 3 graphs; one will show the number of buyers a fictional product has over the course of 6 months, this will be a line chart; the second will show which countries the customers come from, this will be the pie chart; finally we’ll use a bar chart to show profit over the period.
 
+The above reading was resourced from [Webdesignerdepot.com](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 [Back To Table of Contents](/README.md)
