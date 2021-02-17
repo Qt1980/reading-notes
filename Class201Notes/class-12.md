@@ -80,4 +80,7 @@ Advanced text measurements
 
 Gecko-specific notes
 
+-----------------------------------------
+
+The above resources are from the associated websites connected to each topic.
 [Back To Table of Contents](/README.md)
