@@ -17,8 +17,11 @@ MDN Mozilla
 [Basic Usage](/https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 
 Table of contents
-The <canvas> element
+
+The ```<canvas>``` element
+
 A skeleton template
+
 A simple example
 
 -----------------------------------------
@@ -28,25 +31,37 @@ MDN Mozilla
 [Drawing Shapes](/https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
 Table of contents
-The grid
-Drawing rectangles
-Drawing paths
-Path2D objects
-The above reading was resourced from 
 
-------------------------------------------
+The grid
+
+Drawing rectangles
+
+Drawing paths
+
+Path2D objects
+
+The above reading was resourced from
+
+-----------------------------------------
 
 MDM Mozilla
 
 [Applying style](/https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
 Table of contents
+
 Colors
+
 Transparency
+
 Line styles
+
 Gradients
+
 Patterns
+
 Shadows
+
 Canvas fill rules
 
 -----------------------------------------
@@ -56,9 +71,13 @@ MDN Mozilla
 [Drawing Text](/https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 Table of contents
+
 Drawing text
+
 Styling text
+
 Advanced text measurements
+
 Gecko-specific notes
 
 [Back To Table of Contents](/README.md)
