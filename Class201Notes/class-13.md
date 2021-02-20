@@ -12,5 +12,6 @@ HTML5 Storage in Action
 Beyond Named Key-Value Pairs: Competing Visions
 Further Reading
 
-[Local Storage](/http://diveinto.html5doctor.com/storage.html)
+[Click to read more about Local Storage](http://diveinto.html5doctor.com/storage.html)
 
+[Back to Table of Contents](/README.md)
