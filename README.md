@@ -44,6 +44,6 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 1. [Daily reading 10:Debug-B-Gone](/Class201Notes/class-10.md)
 1. [Daily reading 11: Images, Practical Info](/Class201Notes/class-11.md)
 1. [Daily reading 12: Chart Toppin'](/Class201Notes/class-12.md)
-1. [Daily reading 13:](/Class201Notes/class-13.md)
+1. [Daily reading 13: Local Storage](/Class201Notes/class-13.md)
 1. [Daily reading 14:]
 1. [Daily reading 15:]
