@@ -4,7 +4,6 @@ Here is a list of great resources to read in order to get a better understanding
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
 
-
 [GitHub Syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
@@ -13,6 +12,16 @@ Here is a list of great resources to read in order to get a better understanding
 
 Salmon Cookies resource code (Kassie Bradshaw)
 Class-12.md Chart Toppin' resourced from (https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-[Back to Table of Contents](/README.md)
 
 Daily Reading Notes 13 resource : http://diveinto.html5doctor.com/storage.html
+
+Daily Reading Notes Class 14 resources: 
+1. https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+
+2. https://learn.shayhowe.com/advanced-html-css/css-transforms/
+
+3. https://learn.shayhowe.com/advanced-html-css/transitions-animations/
+
+4. https://www.webdesignerdepot.com/2014/05 8-simple-css3-transitions-that-will-wow-your-users
+
+[Back to Table of Contents](/README.md)
