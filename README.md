@@ -52,7 +52,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 
 ## Code *301* - Intermediate Software Development
 
-1. [ES6 Classes](/ES6-classes.md)
-
+1. [ES6 Classes](/ES6-classes-301.md)
+1. [React and Components](/react-components-301.md)
 
 ## Code *401* - Advanced Software Development
