@@ -1,6 +1,6 @@
 # REACT: STATE AND PROPS
 
-Below is a little about State and LifeCycles from [Reactjs.orge](/https://reactjs.org/docs/state-and-lifecycle.html)
+Below is a little about State and LifeCycles from [Reactjs.org](/https://reactjs.org/docs/state-and-lifecycle.html)
 
 
 State and Lifecycle
@@ -83,6 +83,8 @@ Delete the remaining empty function declaration.
 
 ## Handling Events in React JS
 
+Read more on Handling events at [Reactjs.org](/https://reactjs.org/docs/handling-events.html)
+
 Handling Events
 Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:
 
@@ -158,6 +160,8 @@ When you define a component using an ES6 class, a common pattern is for an event
 
 ## Conditional Rendering
 
+Read more on Condition Rendering at [Reactjs.org](/https://reactjs.org/docs/conditional-rendering.html)
+
 Conditional Rendering
 In React, you can create distinct components that encapsulate behavior you need. Then, you can render only some of them, depending on the state of your application.
 
@@ -188,5 +192,8 @@ Consider these two components:
   ```<Greeting isLoggedIn={false} />,```
   ```document.getElementById('root')```
 ```);```
+
+
+All content found at [Reactjs.org](/reactjs.org/docs)
 
 [Back to Table of Contents](/README.md)

@@ -24,4 +24,8 @@ Daily Reading Notes Class 14 resources:
 
 4. https://www.webdesignerdepot.com/2014/05 8-simple-css3-transitions-that-will-wow-your-users
 
+REACT CONTENT Resources
+    https://reactjs.org/docs/state-and-lifecycle.html
+    https://reactjs.org/docs/handling-events.html
+    https://reactjs.org/docs/conditional-rendering.html
 [Back to Table of Contents](/README.md)
