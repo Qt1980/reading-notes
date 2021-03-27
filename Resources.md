@@ -38,4 +38,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 ## Class 03 Reading Resources
 https://reactjs.org/docs/lifting-state-up.html
 https://reactjs.org/docs/lists-and-keys.html
+https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
+
 [Back to Table of Contents](/README.md)
