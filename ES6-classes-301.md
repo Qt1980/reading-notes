@@ -99,5 +99,32 @@ Let's look at what happens behind the scenes in a bit more detail.
 
 In JavaScript, as mentioned above, functions are able to have properties. All functions have a special property named prototype. Please note that the code below is free-standing (it is safe to assume there is no other JavaScript on the webpage other than the below code). For the best learning experience, it is highly recommended that you open a console, navigate to the "console" tab, copy-and-paste in the below JavaScript code, and run it by pressing the Enter/Return key. (The console is included in most web browser's Developer Tools.
 
+## 'this'
+
+A function's this keyword behaves a little differently in JavaScript compared to other languages. It also has some differences between strict mode and non-strict mode.
+
+In most cases, the value of this is determined by how a function is called (runtime binding). It can't be set by assignment during execution, and it may be different each time the function is called. ES5 introduced the bind() method to set the value of a function's this regardless of how it's called, and ES2015 introduced arrow functions which don't provide their own this binding (it retains the this value of the enclosing lexical context).
+
+## Classes
+
+Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on prototypes but also have some syntax and semantics that are not shared with ES5 class-like semantics.
+
+Defining classes
+Classes are in fact "special functions", and just as you can define function expressions and function declarations, the class syntax has two components: class expressions and class declarations.
+
+Class declarations
+One way to define a class is using a class declaration. To declare a class, you use the class keyword with the name of the class ("Rectangle" here).
+
+```class Rectangle {```
+
+  ```constructor(height, width) {```
+
+    ```this.height = height;```
+
+    ```this.width = width;```
+
+  ```}```
+
+```}```
 
 [Back To Table of Contents](/README.md)
