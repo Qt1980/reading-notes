@@ -127,4 +127,5 @@ One way to define a class is using a class declaration. To declare a class, you 
 
 ```}```
 
+[Resources for this page](/Resources.md)
 [Back To Table of Contents](/README.md)

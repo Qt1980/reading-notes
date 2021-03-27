@@ -28,4 +28,10 @@ REACT CONTENT Resources
     https://reactjs.org/docs/state-and-lifecycle.html
     https://reactjs.org/docs/handling-events.html
     https://reactjs.org/docs/conditional-rendering.html
+
+## ES6 Classes Resources
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 [Back to Table of Contents](/README.md)
