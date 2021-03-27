@@ -34,4 +34,8 @@ REACT CONTENT Resources
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+## Class 03 Reading Resources
+https://reactjs.org/docs/lifting-state-up.html
+https://reactjs.org/docs/lists-and-keys.html
 [Back to Table of Contents](/README.md)
