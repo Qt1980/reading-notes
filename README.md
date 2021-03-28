@@ -52,9 +52,10 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 
 ## Code *301* - Intermediate Software Development
 
-1. [ES6 Classes](/ES6-classes-301.md)
-1. [React and Components](/react-components-301.md)
-1. [React: States and Props](/react-state-props.md)
-1. [Lift State, List and Keys](/lift-state-list-keys.md)
-
+1. [Intro to React](/class01-intro-react.md)
+2. [ES6 Classes](/ES6-classes-301.md)
+3. [React and Components](/react-components-301.md)
+4. [React: States and Props](/react-state-props.md)
+5. [Lift State, List and Keys](/lift-state-list-keys.md)
+6. 
 ## Code *401* - Advanced Software Development

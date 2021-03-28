@@ -24,6 +24,14 @@ Daily Reading Notes Class 14 resources:
 
 4. https://www.webdesignerdepot.com/2014/05 8-simple-css3-transitions-that-will-wow-your-users
 
+## 301 Resources
+
+## Class 01
+1. https://reactjs.org/docs/hello-world.html
+2. https://reactjs.org/docs/introducing-jsx.html
+3. https://reactjs.org/docs/components-and-props.html
+4. https://reactjs.org/docs/rendering-elements.html#rendering-an-element-into-the-dom
+
 REACT CONTENT Resources
     https://reactjs.org/docs/state-and-lifecycle.html
     https://reactjs.org/docs/handling-events.html
