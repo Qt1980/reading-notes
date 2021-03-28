@@ -1,4 +1,4 @@
-# Hello World
+# Class 01: Intro to React: Hello World
 The smallest React example looks like this:
 
 ```ReactDOM.render(```
