@@ -57,5 +57,6 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 3. [React and Components](/react-components-301.md)
 4. [React: States and Props](/react-state-props.md)
 5. [Lift State, List and Keys](/lift-state-list-keys.md)
-6. 
+6. [Forms](/forms.md)
+7. 
 ## Code *401* - Advanced Software Development

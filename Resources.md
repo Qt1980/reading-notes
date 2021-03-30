@@ -31,6 +31,7 @@ Daily Reading Notes Class 14 resources:
 2. https://reactjs.org/docs/introducing-jsx.html
 3. https://reactjs.org/docs/components-and-props.html
 4. https://reactjs.org/docs/rendering-elements.html#rendering-an-element-into-the-dom
+5. https://reactjs.org/docs/forms.html
 
 REACT CONTENT Resources
     https://reactjs.org/docs/state-and-lifecycle.html
