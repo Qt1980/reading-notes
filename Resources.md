@@ -49,4 +49,7 @@ https://reactjs.org/docs/lifting-state-up.html
 https://reactjs.org/docs/lists-and-keys.html
 https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
 
+## Class 05
+https://reactjs.org/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy
+
 [Back to Table of Contents](/README.md)
