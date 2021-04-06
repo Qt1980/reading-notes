@@ -59,6 +59,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 5. [Lift State, List and Keys](/lift-state-list-keys.md)
 6. [Forms](/forms.md)
 7. [React Thinking](/thinking.md)
+8. [Node.js](/node-js.md)
 
 
 ## Code *401* - Advanced Software Development
