@@ -24,6 +24,10 @@ In this next section, we’ll install Node and write a couple of simple programs
 
 Many websites will recommend that you head to the official Node download page and grab the Node binaries for your system. While that works, I would suggest that you use a version manager instead. This is a program that allows you to install multiple versions of Node and switch between them at will. There are various advantages to using a version manager. For example, it negates potential permission issues when using Node with npm and lets you set a Node version on a per-project basis.
 
+## Pair Programming
+
+Pair programming is the process of performing code based operations with at least two software developers. Pair programming can be used to build a code base from the ground up or to update code that already exists. Either way this is a fun process that affords all programmers involved a collaborative and creative experience. In my personal experience it has been highly impactful in my growth as a software developer.
+
 All content found at [Node.js](/https://www.sitepoint.com/an-introduction-to-node-js/)
 
 [Back to Table of Contents](/README.md)
