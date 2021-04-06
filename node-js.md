@@ -28,6 +28,6 @@ Many websites will recommend that you head to the official Node download page an
 
 Pair programming is the process of performing code based operations with at least two software developers. Pair programming can be used to build a code base from the ground up or to update code that already exists. Either way this is a fun process that affords all programmers involved a collaborative and creative experience. In my personal experience it has been highly impactful in my growth as a software developer.
 
-All content found at [Node.js](/https://www.sitepoint.com/an-introduction-to-node-js/)
+All Node.js content can be found at [Node.js](/https://www.sitepoint.com/an-introduction-to-node-js/)
 
 [Back to Table of Contents](/README.md)
