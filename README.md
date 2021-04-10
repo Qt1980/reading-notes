@@ -60,6 +60,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 6. [Forms](/forms.md)
 7. [React Thinking](/thinking.md)
 8. [Node.js](/node-js.md)
+9. [Psych Safety](/psych-safety.md)
 
 
 ## Code *401* - Advanced Software Development

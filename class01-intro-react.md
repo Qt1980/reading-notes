@@ -161,4 +161,5 @@ The simplest way to define a component is to write a JavaScript function:
 This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.
 
 Content for this page are from online resources found under 301 Resources Class 01 at [Resources](/Resources.md)
+
 [Back to Table of Contents](/README.md)

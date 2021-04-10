@@ -55,4 +55,7 @@ https://reactjs.org/docs/thinking-in-react.html#step-1-break-the-ui-into-a-compo
 ## Class 06 Node.js:
 https://www.sitepoint.com/an-introduction-to-node-js/
 
+## Class 7 Psych Safety/REST:
+https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+
 [Back to Table of Contents](/README.md)
