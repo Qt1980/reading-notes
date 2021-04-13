@@ -58,4 +58,8 @@ https://www.sitepoint.com/an-introduction-to-node-js/
 ## Class 7 Psych Safety/REST:
 https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 
+## Class 08 SuperAgent and RegEx:
+https://visionmedia.github.io/superagent/
+https://regexr.com/
+
 [Back to Table of Contents](/README.md)
