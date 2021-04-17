@@ -62,6 +62,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 8. [Node.js](/node-js.md)
 9. [Psych Safety](/psych-safety.md)
 10. [RegExr](/super-agent-regex.md)
+11. [Functional-Programming](/functional-programming.md)
 
 
 ## Code *401* - Advanced Software Development

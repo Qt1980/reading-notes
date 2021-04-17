@@ -62,4 +62,7 @@ https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-t
 https://visionmedia.github.io/superagent/
 https://regexr.com/
 
+## Class 09 Functional Programming:
+https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
+
 [Back to Table of Contents](/README.md)
