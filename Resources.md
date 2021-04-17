@@ -65,4 +65,7 @@ https://regexr.com/
 ## Class 09 Functional Programming:
 https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
 
+## Refactoring JavaScript
+https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec
+
 [Back to Table of Contents](/README.md)

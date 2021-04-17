@@ -40,6 +40,12 @@ Our impure function will now result in 10 * 10 * 42 = 4200. For the same paramet
 
 ```calculateArea(10, PI); // returns 314.0```
 
+## Refactoring Code
+
+Click the link below to read an article about refactoring javascript code. Refactoring is a useful skill to have that creates a more readable code base. Think of it as a way to simplify and make concise statements. 
+
+[Refactoring](/https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
+
 
 Content for this page are from online resources found under 301 Resources Class 07 at [Resources](/Resources.md)
 
