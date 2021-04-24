@@ -71,4 +71,8 @@ https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readabilit
 ## Class 10 Javascript Callback
 https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
 
+## Class 11 OAuth and Authentication
+    - https://auth0.com/docs/flows
+    - https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
+
 [Back to Table of Contents](/README.md)
