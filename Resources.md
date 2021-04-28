@@ -75,4 +75,7 @@ https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41
     - https://auth0.com/docs/flows
     - https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
 
+## Class 12 SQL and NoSQL
+    - https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
+
 [Back to Table of Contents](/README.md)
