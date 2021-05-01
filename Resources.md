@@ -45,37 +45,53 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 ## Class 03 Reading Resources
+
 https://reactjs.org/docs/lifting-state-up.html
 https://reactjs.org/docs/lists-and-keys.html
 https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
 
 ## Class 05
+
 https://reactjs.org/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy
 
 ## Class 06 Node.js:
+
 https://www.sitepoint.com/an-introduction-to-node-js/
 
 ## Class 7 Psych Safety/REST:
+
 https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 
-## Class 08 SuperAgent and RegEx:
+## Class 08 SuperAgent and RegEx
+
 https://visionmedia.github.io/superagent/
 https://regexr.com/
 
-## Class 09 Functional Programming:
+## Class 09 Functional Programming
+
 https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
 
 ## Refactoring JavaScript
+
 https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec
 
 ## Class 10 Javascript Callback
+
 https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
 
 ## Class 11 OAuth and Authentication
+
     - https://auth0.com/docs/flows
     - https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
 
 ## Class 12 SQL and NoSQL
+
     - https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
+
+## Class 13 CRUD
+
+    - https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/
+    - https://aloneonahill.com/blog/http-status-codes#:~:text=The%20200%20status%20code%20is,understood%20and%20is%20being%20processed.&text=A%20201%20status%20code%20indicates,for%20example%20a%20new%20page
+    - https://en.wikipedia.org/wiki/Patch_verb#:~:text=The%20main%20difference%20between%20the,instructions%20to%20modify%20the%20resource
 
 [Back to Table of Contents](/README.md)
