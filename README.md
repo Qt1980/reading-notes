@@ -67,6 +67,7 @@ Here's a quote from Bill Gates, a Tech Leaders I look at to find motivation and 
 13. [Oauth.md](/oauth.md)
 14. [SQL/NoSQL](/sql.md)
 15. [CRUD](/crud.md)
+16. [D.E.I.](/dei.md)
 
 
 ## Code *401* - Advanced Software Development

@@ -94,4 +94,12 @@ https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41
     - https://aloneonahill.com/blog/http-status-codes#:~:text=The%20200%20status%20code%20is,understood%20and%20is%20being%20processed.&text=A%20201%20status%20code%20indicates,for%20example%20a%20new%20page
     - https://en.wikipedia.org/wiki/Patch_verb#:~:text=The%20main%20difference%20between%20the,instructions%20to%20modify%20the%20resource
 
+## Class 14 D.E.I
+
+- [USETODAY](/https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
+- [NPR](/https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+- [DEI-In-Tech](/https://informationisbeautiful.net/visualizations/diversity-in-tech/)
+
+
+
 [Back to Table of Contents](/README.md)
